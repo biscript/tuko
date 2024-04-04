@@ -2,7 +2,7 @@
 portrait_opacity: 0.67
 portrait_height: 0
 subbanks:
-- color: "purple"
+- color: ""
   prefix: ""
   suffix: ""
   tone_ranges:
